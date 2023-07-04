@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="camera" name="cam_node_0" type="camera_0" output="screen" />
+  <node pkg="camera" name="cam_node_1" type="camera_1" output="screen" />
+  <node pkg="camera" name="cam_node_2" type="camera_2" output="screen" />
+</launch>
